@@ -3,7 +3,17 @@ About
 
 The Python code for the paper "A Hybrid Quantum-Classical Algorithm for Robust Fitting"
 
-The demo program was only tested under Conda in a standard computer with Ubuntu 20.04 
+The demo program was only tested under Conda in a standard computer with Ubuntu 20.04.
+
+If you find our code is useful, please cite:
+```
+@article{Dzung22hqc,
+  title = {A Hybrid Quantum-Classical Algorithm for Robust Fitting},
+  author = {Anh-Dzung Doan and Michele Sasdelli and Tat-Jun Chin and David Suter},
+  journal={arXiv preprint arXiv:2201.10110},
+  year = {2022}
+}
+```
 
 Installation
 ================
