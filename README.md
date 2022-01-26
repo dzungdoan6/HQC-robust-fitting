@@ -1,7 +1,7 @@
 About
 ============
 
-The Python code for the paper "A Hybrid Quantum-Classical Algorithm for Robust Fitting"
+The Python code for the paper [A Hybrid Quantum-Classical Algorithm for Robust Fitting](https://arxiv.org/abs/2201.10110)
 
 The demo program was only tested under Conda in a standard computer with Ubuntu 20.04.
 
