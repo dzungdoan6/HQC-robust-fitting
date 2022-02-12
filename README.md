@@ -9,7 +9,7 @@ If you find our code is useful, please cite:
 ```
 @article{Dzung22hqc,
   title = {A Hybrid Quantum-Classical Algorithm for Robust Fitting},
-  author = {Anh-Dzung Doan and Michele Sasdelli and Tat-Jun Chin and David Suter},
+  author = {Anh-Dzung Doan and Michele Sasdelli and David Suter and Tat-Jun Chin},
   journal={arXiv preprint arXiv:2201.10110},
   year = {2022}
 }
