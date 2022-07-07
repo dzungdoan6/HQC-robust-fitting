@@ -36,4 +36,4 @@ Usage
     Note: if TOKEN of D-Wave Leap is provided (step 1), QUBO will be solved by quantum annealing, otherwise QUBO will be solved by simulated annealing
 
 + Real data (script `main_fund.py`)
-    - Simply run script (It may take around 30 minutes)
+    - Simply run script (It will likely take around 30 minutes)
