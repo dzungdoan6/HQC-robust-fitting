@@ -37,3 +37,5 @@ Usage
 
 + Real data (script `main_fund.py`)
     - Simply run script (It will likely take around 30 minutes)
+    - Note: To normalise image coordiates, we used `normalise2dpts.m` of Peter Kovesi's [toolbox](https://www.peterkovesi.com/matlabfns/index.html) 
+ 
