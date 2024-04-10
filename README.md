@@ -33,6 +33,7 @@ Usage
 + Synthetic data (script `main_synthetic.py`)
     1. (Optional) Register an account on D-Wave Leap (https://cloud.dwavesys.com/leap/login/?next=/leap/), obtain TOKEN of D-Wave Leap, and assign its value to the variable `TOKEN` within the script.
     2.  Run script
+  
     Note: if TOKEN of D-Wave Leap is provided (step 1), QUBO will be solved by quantum annealing, otherwise QUBO will be solved by simulated annealing
 
 + Real data (script `main_fund.py`)
